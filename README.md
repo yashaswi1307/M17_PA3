@@ -24,7 +24,6 @@ This project is designed to run in a Codio cloud workspace with full Jupyter Not
 
 ## Project Structure
 
-.
 ├── data/
 │   └── data-additional/
 │       ├── bank-additional-full.csv
