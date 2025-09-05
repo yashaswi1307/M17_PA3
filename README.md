@@ -34,8 +34,11 @@ This project is designed to run in a Codio cloud workspace with full Jupyter Not
 ## Usage
 
 1. **Clone or download** this repository.  
-2. Place `bank-additional-full.csv` in the `data/data-addiotinal/` folder.  
-3. Open and run `solution.ipynb` step by step.  
+2. Place `bank-additional-full.csv` in the `data/data-addiotinal/` folder.
+3. Place `bank-additional.csv` in the `data/data-addiotinal/` folder.
+4. Place `bank-additional-names.txt` in the `data/data-addiotinal/` folder.
+5. Upload `solution.ipynb` in root folder.
+6. Open and run `solution.ipynb` step by step.  
 
 ## Analysis Steps
 
@@ -44,7 +47,6 @@ This project is designed to run in a Codio cloud workspace with full Jupyter Not
 3. **Baseline**: Compute baseline accuracy (majority class).  
 4. **Modeling**: Fit Logistic Regression, KNN, Decision Tree, and SVM.  
 5. **Model Comparison**: Evaluate training time, train/test accuracy.  
-6. **Improvements**: Hyperparameter tuning, feature engineering, adjusted metrics (F1/PR-AUC).  
 
 ## Key Findings
 
