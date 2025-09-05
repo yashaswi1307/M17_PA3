@@ -9,10 +9,7 @@ This project analyzes data from a Portuguese banking institution to predict whet
 
 * **Source**: UCI Machine Learning Repository ("Bank Marketing" dataset)
 * **Records**: ~41,188 entries
-* **Columns**: 20 input features + 1 output label
-* **Attributes**:  
-  * **Client data**: `age`, `job`, `marital`, `education`, `default`, `housing`, `loan`  
-  * **Campaign data**: `contact`, `month`, `day_of_week`, `duration`, `campaign`, `pdays`, `previous`, `poutcome`  
+* **Columns**: 20 input features + 1 output label 
 
 ## Prerequisites
 
@@ -24,6 +21,7 @@ This project is designed to run in a Codio cloud workspace with full Jupyter Not
 
 ## Project Structure
 
+```
 ├── data/
 │   └── data-additional/
 │       ├── bank-additional-full.csv
@@ -31,6 +29,7 @@ This project is designed to run in a Codio cloud workspace with full Jupyter Not
 │       └── bank-additional-names.txt
 ├── solution.ipynb
 └── README.md
+```
 
 ## Usage
 
